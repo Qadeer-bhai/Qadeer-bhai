@@ -23,12 +23,3 @@ interests:
   - Creative UI/UX Design
   - Community Building
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,java,tailwind,html,css,mongodb,figma,github,git,vscode&perline=8" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Qadeer- hai=Qadeer-bhai&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Qadeer-bhai=Qadeer-bhai&layout=compact&theme=radical" />
-</p>
