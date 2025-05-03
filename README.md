@@ -12,18 +12,9 @@
 
 ### [HELLO PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏🤞]
 
-[TAP HERE OPEN FREDI MD REPO](https://github.com/Fred1e/FREDI_MD-v1)
 
+[TAP HERE OPEN TOFAN MD](https://github.com/Qadeer-bhai/TOFAN-MD)
 
-[TAP HERE OPEN LUCKY MD](https://github.com/Fred1e/LUCKY_MD)
-
-
-[TAP HERE OPEN FRECYBER MD](https://github.com/frecyber1/FRECYBER-MD) 
-
-
-[TAP HERE FOR FULL INFO](https://github.com/Fred1e/FREDIETECH-INFO/tree/main)
-
-[TAP HERE FOR FULL INFO ABOUT FRECYBER](https://github.com/frecyber1) 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
