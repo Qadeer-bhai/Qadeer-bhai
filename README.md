@@ -11,11 +11,16 @@
 ---
 
 ### [HELLO PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏🤞]
-
+---
+#[For HEROKU👇👇]
 ---
 [TAP HERE OPEN QADEER-XTECH](https://github.com/Qadeer-bhai/QADEER-XTECH)
 ---
+#[For HEROKU👇👇]
+---
 [TAP HERE OPEN TOFAN MD](https://github.com/Qadeer-bhai/TOFAN-MD)
+---
+#[For PANNEL👇👇]
 ---
 [TAP HERE OPEN TOFAN BRAND](https://github.com/Qadeer-bhai/TOFAN-BRAND)
 ---
