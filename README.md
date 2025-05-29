@@ -13,6 +13,8 @@
 ### [HELLO PLEASE FOLLOW ME FOR SUPPORT THANK YOU 🙏🤞]
 
 ---
+[TAP HERE OPEN QADEER-XTECH](https://github.com/Qadeer-bhai/QADEER-XTECH)
+---
 [TAP HERE OPEN TOFAN MD](https://github.com/Qadeer-bhai/TOFAN-MD)
 ---
 [TAP HERE OPEN TOFAN BRAND](https://github.com/Qadeer-bhai/TOFAN-BRAND)
