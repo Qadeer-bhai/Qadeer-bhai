@@ -27,12 +27,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h2 align="left">Hi 👋! My name is Qadeer Khan and I'm a Student, from World</h2>
-
 ## :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pkdriller&theme=dark" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkdriller&layout=compact&theme=vision-friendly-dark)](https://github.com/Qadeer-bhai/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Qadeer-bhai&theme=dark" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer-bhai&layout=compact&theme=vision-friendly-dark)](https://github.com/Qadeer-bhai/github-readme-stats)
 
 
 
