@@ -20,10 +20,6 @@
 ---
 [TAP HERE OPEN TOFAN MD](https://github.com/Qadeer-bhai/TOFAN-MD)
 ---
-#[For PANNEL👇👇]
----
-[TAP HERE OPEN TOFAN BRAND](https://github.com/Qadeer-bhai/TOFAN-BRAND)
----
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
