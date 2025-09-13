@@ -14,7 +14,7 @@
 ---
 #[For HEROKU👇👇]
 ---
-[TAP HERE OPEN QADEER-XTECH](https://github.com/Qadeer-bhai/QADEER-XTECH)
+[TAP HERE OPEN QADEER-AI](https://github.com/Qadeer-Xtech/QADEER-AI)
 ---
 #[For HEROKU👇👇]
 ---
